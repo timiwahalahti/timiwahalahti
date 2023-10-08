@@ -1,4 +1,4 @@
-👋 Hello. I'm a Senior backend Developer and WordPress Community enthusiast.
+👋 Hello. I'm a Senior backend developer and WordPress Community enthusiast.
 
 **Elsewhere**
 - 🕸 [Website & blog](https://sipp.is/)
